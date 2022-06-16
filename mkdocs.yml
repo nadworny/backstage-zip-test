@@ -1,0 +1,9 @@
+site_name: 'Test'
+site_description: 'Test'
+
+nav:
+  - Test:
+    - Main documentation: test/README.md
+
+plugins:
+  - techdocs-core
